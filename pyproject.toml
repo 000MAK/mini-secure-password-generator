@@ -1,0 +1,9 @@
+[project]
+name = "mini-secure-password-generator"
+version = "0.1.0"
+description = "Generates passwords with Python secure randomness. Passwords are printed once and not stored by the application."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
